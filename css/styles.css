@@ -245,6 +245,7 @@ color: rgba(0, 0, 0, 0);
     display: flex;
     justify-content: center;
     gap: 24px;
+    margin: 8px;
 }
 
 .social-media-list-item{
@@ -358,6 +359,7 @@ a:hover {
     display: inline-block;
     overflow: hidden;
     width: 360px;
+    
 }
 
 .hover-text {
@@ -437,6 +439,23 @@ a:hover {
 .footer {
     background-color: #2e2f42;
     padding: 100px 0
+}
+
+
+.footer-common-container{
+    display: flex;
+    margin-right: 120px;
+    align-items: baseline,
+}
+
+.footer-logo-container{
+    padding: 0 15px;
+    margin: 0 auto;
+
+}
+
+.footer-social-media{
+    color: white;
 }
 
 .logo-web {
