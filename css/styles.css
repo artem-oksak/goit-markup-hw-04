@@ -444,16 +444,14 @@ a:hover {
 
 .footer-common-container{
     display: flex;
-    margin-right: 120px;
+    margin-right: 500px;
     align-items: baseline;
 }
 
 .footer-logo-container{
     padding: 0 15px;
     margin: 0 auto;
-    margin-right: 120px
-
-
+    margin-right:120px;
 }
 
 .footer-social-media{
